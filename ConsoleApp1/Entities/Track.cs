@@ -15,6 +15,8 @@ namespace ConsoleApp1
         public int TimesListened { get; set; }
         public int AlbumId { get; set; }
         public int PlayListId { get; set; }
+        public int SingerId { get; set; }
+        public virtual Singer Singer { get; set; }
         public virtual Album Album { get; set; }
         public virtual Playlist Playlist { get; set; }
 

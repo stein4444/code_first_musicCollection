@@ -21,7 +21,7 @@ namespace Model
     /// </summary>
     public partial class MainWindow : Window
     {
-        MyDbContext myDb = new MyDbContext();
+        
         public MainWindow()
         {
             InitializeComponent();

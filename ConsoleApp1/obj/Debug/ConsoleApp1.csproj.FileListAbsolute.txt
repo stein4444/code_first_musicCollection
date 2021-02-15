@@ -36,3 +36,4 @@ E:\c# 3semestr\ado.NET\music migration\ConsoleApp1\ConsoleApp1\obj\Debug\Console
 E:\c# 3semestr\ado.NET\music migration\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 E:\c# 3semestr\ado.NET\music migration\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Migrations.AddRationSongsAlbumsSongsText.resources
 E:\c# 3semestr\ado.NET\music migration\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+E:\c# 3semestr\ado.NET\music migration\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Migrations.blabla.resources

@@ -67,6 +67,10 @@
     <Compile Include="Migrations\202102151415487_AddRationSongsAlbumsSongsText.designer.cs">
       <DependentUpon>202102151415487_AddRationSongsAlbumsSongsText.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202102152128325_blabla.cs" />
+    <Compile Include="Migrations\202102152128325_blabla.designer.cs">
+      <DependentUpon>202102152128325_blabla.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -80,6 +84,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202102151415487_AddRationSongsAlbumsSongsText.resx">
       <DependentUpon>202102151415487_AddRationSongsAlbumsSongsText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202102152128325_blabla.resx">
+      <DependentUpon>202102152128325_blabla.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
